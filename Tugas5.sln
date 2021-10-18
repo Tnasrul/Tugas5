@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Tugas5", "Tugas5\", "{3D4DF7C9-3511-460E-A3F6-1D42AA57855A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1193"
+		Debug.AspNetCompiler.PhysicalPath = "Tugas5\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1193\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1193"
+		Release.AspNetCompiler.PhysicalPath = "Tugas5\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1193\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1193"
+		SlnRelativePath = "Tugas5\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4DF7C9-3511-460E-A3F6-1D42AA57855A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4DF7C9-3511-460E-A3F6-1D42AA57855A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7166C934-D8CB-4983-B39A-34FC331F2DAE}
+	EndGlobalSection
+EndGlobal
